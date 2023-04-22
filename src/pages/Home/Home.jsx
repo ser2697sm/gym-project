@@ -6,7 +6,7 @@ export function Home() {
     return (
         <>
         <Header logo={logo}/>
-        <h1>Hola desde Home</h1>
+            <button type="button" class="btn btn-info">Darse de alta</button>
         </>
     )
 }
